@@ -25,7 +25,7 @@ or
 
 # Hyprland 
 
-![Alt text](https://github.com/aczw/sddm-theme-corners/blob/main/preview/glacier.png)
+![Alt text]([https://github.com/aczw/sddm-theme-corners/blob/main/preview/glacier.png](https://github.com/dev-grix/arch_setup/blob/main/src/IMG_20230606_101109.jpg)https://github.com/dev-grix/arch_setup/blob/main/src/IMG_20230606_101109.jpg)
 
 
 
