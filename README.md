@@ -23,7 +23,9 @@ or
 # Sddm
 ![Alt text](https://github.com/aczw/sddm-theme-corners/blob/main/preview/glacier.png)
 
+# Hyprland 
 
+![Alt text](https://github.com/aczw/sddm-theme-corners/blob/main/preview/glacier.png)
 
 
 
