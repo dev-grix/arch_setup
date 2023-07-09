@@ -8,3 +8,8 @@ or use arch setup script
 ```./install.sh```
 or
 ```bash install.sh```
+
+# Install hyprland and desktop
+```./install_desktop```
+or
+```bash install_desktop```
